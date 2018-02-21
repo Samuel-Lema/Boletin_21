@@ -1,0 +1,6 @@
+1 --> Artai
+2 --> El
+3 --> Hoy
+4 --> Mañana
+5 --> Samuel
+6 --> Yo
